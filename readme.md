@@ -1,6 +1,6 @@
 # Wordpress E-commerce Site  
 
-<img src="https://i.ibb.co/D88S1g3/ls-demo.webp" alt="countries-Api" border="0">
+<img src="https://i.ibb.co/nb2463s/home-klick.png" alt="countries-Api" border="0">
 
 ## Welcome! 👋
 
