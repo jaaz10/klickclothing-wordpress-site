@@ -8,7 +8,7 @@ Klick clothing is an e-commerce webite built with Wordpress using the woo-commer
 
 ## The Project Assignment
 
-Create a full stack e-commerce website with shopping cart functionality.
+Follwing the Waterfall method, create a full stack e-commerce website with shopping cart functionality.
 
  Users should be able to:
 
