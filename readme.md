@@ -1,4 +1,4 @@
-# Wordpress E-commerce Site  
+# Klick clothing: Wordpress E-commerce Site  
 
 <img src="https://i.ibb.co/nb2463s/home-klick.png" alt="countries-Api" border="0">
 
